@@ -11,6 +11,10 @@ Any certifications related to IT as a whole that I receivce will be listed below
 
 [Certifications](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Certifications)
 
+Any tryhackme path I complete may be viewed below.
+
+[Completeed-Path-completions](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Completeed-Path-completions)
+
 Currently, you can find my skills and tools I use below.
 
 [Skills & Tools](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Skills-%26-Tools)
