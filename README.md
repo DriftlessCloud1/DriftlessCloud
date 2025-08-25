@@ -1,6 +1,4 @@
-# DriftlessCloud
-My cyber security portfolio.
-
+# DriftlessCloud profile
 Hello! I’m DriftlessCloud, I'm intrested in becoming a ethical hacker and pentester. Currently I'm studying IT support, I like exploring security challenges, solving CTFs, and learning security techniques. I'm currently learning about 
 
 My completed CTFs will be listed in this current branch. I'll try and record everything that is necessary for evidence. Will be updated weekly.
