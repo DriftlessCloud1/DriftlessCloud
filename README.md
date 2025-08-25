@@ -1,5 +1,5 @@
-# DriftlessCloud profile
-Hello! I’m DriftlessCloud, I'm intrested in becoming a ethical hacker and pentester. Currently I'm studying IT support, I like exploring security challenges, solving CTFs, and learning security techniques. I'm currently learning about 
+# DriftlessCloud's cyber security profile
+Hello! I'm DriftlessCloud, I'm interested in becoming a ethical hacker and pentester. Currently I'm studying IT support for a associate's degree, I like exploring security challenges, solving CTFs, and learning security techniques. I'm currently learning about futher cyber security tools and skills. Anything I learn, recive, and complete will be listed here for personal benefit as well as a place for companies to view my proven skills.
 
 My completed CTFs will be listed in this current branch. I'll try and record everything that is necessary for evidence. Will be updated weekly.
 
