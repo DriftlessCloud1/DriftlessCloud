@@ -1,3 +1,1 @@
 I have (still am) using Kali Linux for CTFs, cyber security tasks, pentesting, and its tools. Kali linux is definitely useful for all ranges and I enjoy using it due do its simple install, pre installed tools, and other features.  While I've used Kali Linux, moving on to other Linux OS based for security tasks is always a consideration.  As of right now, running Kali Linux on Oracle VirtualBox is simple and easy as it doesn't cause many problems. Kali Linux has served well, but eventually might move on to something more advance once I understand so.
-
-Revised 8/25/2025
