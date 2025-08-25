@@ -5,11 +5,17 @@ Network topologies. I would say this is one of the easiest things to remember on
 Networking communications is another system which is more complex, since it talks about how data is sent, received, encrypted, etc. At my current knowledge level, I learned that OSI and TCP/IP models are the main frameworks. With the Open Systems Interconnection being 7 layers being-
 
 Physical
+
 Data Link
+
 Network
+
 Transport
+
 Session
+
 Presentation
+
 Application
 
 Each with deeper usage, that’s another topic for later.
@@ -17,8 +23,11 @@ Each with deeper usage, that’s another topic for later.
 The TCP/IP model is four layers instead of 7, and a set of protocols that determines how data is transmitted and received across the internet and other networks. Its layers-
 
 Application
+
 Transport
+
 Internet
+
 Link 
 
 Transmission Control Protocol/Internet Protocol is simple, uses protocols, flexible and scalable for mass large scale protocols and technologies. And allows guaranteed data delivery without it beiang corrupted.
