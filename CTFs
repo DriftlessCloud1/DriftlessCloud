@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CTFs – DriftlessCloud</title>
+    <style>
+        body { font-family: Arial; background-color: #0d1117; color: #c9d1d9; padding: 2rem; }
+        h1 { color: #58a6ff; }
+        a { color: #58a6ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        section { margin-bottom: 2rem; }
+    </style>
+</head>
+<body>
+    <h1>CTFs</h1>
+    <p>These are my completed CTF challenges. Details are in the CTFs branch:</p>
+    <p><a href="https://github.com/DriftlessCloud1/DriftlessCloud/tree/CTFs" target="_blank">View CTF Branch</a></p>
+
+    <section>
+        <ul>
+            <li>Bandit Levels 0–10 – <em>Practice on Linux & security basics</em></li>
+            <li>picoCTF 2025 – <em>First beginner CTF, documented writeups</em></li>
+            <!-- Add more as you complete them -->
+        </ul>
