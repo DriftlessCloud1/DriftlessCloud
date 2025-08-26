@@ -32,10 +32,12 @@ This prioritizes speed and multithreads allowing for a super fast port scan, whi
 
 ‎ 
 
-After doing a second time with more variables, you can narrow it down, and make it stealthy and quick. I still got one brain cell.
+After doing a second time with more variables, you can narrow it down, and make it stealthy and quick. I still have one brain cell.
 
 <img width="749" height="351" alt="Screenshot 2025-08-26 003646" src="https://github.com/user-attachments/assets/63af587e-3157-4bea-bc57-f1905eda5006" />
 
+‎ 
 
+This is an updated version, 1.9.1. Added plentiful features if needed during more advanced port scans.
 
-
+<img width="1865" height="668" alt="Screenshot 2025-08-26 140138" src="https://github.com/user-attachments/assets/077c9ec1-7b49-41c8-87a4-6a24b6f1e6b0" />
