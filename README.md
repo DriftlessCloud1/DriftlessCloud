@@ -17,7 +17,7 @@ Currently, you can find my skills and tools I use below. I'll explain the brief 
 
 [Skills & Tools](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Skills-%26-Tools)
 
-Custom tools are scripts that I made for myself which has 1 or more better or more efficient functions than regular tools that would come publicly available. For me, better than stock tools, for a cyber security expert, probably sucks. 
+Custom tools are scripts that I made for myself which has 1 or more better or more efficient functions than regular tools that would come publicly available.
 
 [Custom Tools](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Custom-Tools)
 
