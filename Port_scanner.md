@@ -38,6 +38,6 @@ After doing a second time with more variables, you can narrow it down, and make 
 
 ‎ 
 
-This is an updated version, 1.9.1. Added plentiful features if needed during more advanced port scans.
+This is an updated version, 1.9.1. Added plentiful features if needed during more advanced port scans, also has configs, scheduled scanning, scan resumption, and the original network-discovery and discovery-method options.
 
-<img width="1865" height="668" alt="Screenshot 2025-08-26 140138" src="https://github.com/user-attachments/assets/077c9ec1-7b49-41c8-87a4-6a24b6f1e6b0" />
+<img width="1076" height="934" alt="Screenshot 2025-08-26 154340" src="https://github.com/user-attachments/assets/546693b6-f3ab-4856-9780-8183ca978821" />
