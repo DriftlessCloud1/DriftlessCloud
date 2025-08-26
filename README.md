@@ -1,1 +1,1 @@
-Room completions aren't really CTFs or certifications (can be CTFs but CTFs in that branch will be dedicated CTFs, not necessarily walkthroughs), but being able to prove to people that I did complete a path helps for myself and notes. You can view the completed Path completions above.
+Room completions aren't really CTFs or certifications (can be CTFs but CTFs in the CTFs branch will be dedicated to CTFs, not necessarily walkthroughs), but being able to prove to people that I did complete a path helps for myself and notes. You can view the completed Path completions above.
