@@ -9,13 +9,17 @@ Any certifications related to IT as a whole that I receivce will be listed below
 
 [Certifications](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Certifications)
 
-Any tryhackme path I complete may be viewed below.
+Any tryhackme path I complete may be viewed below. It'll be in picture and PDF format.
 
 [Completeed-Path-completions](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Completeed-Path-completions)
 
-Currently, you can find my skills and tools I use below.
+Currently, you can find my skills and tools I use below. I'll explain the brief summary of it, I'll explain more if needed later.
 
 [Skills & Tools](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Skills-%26-Tools)
+
+Custom tools are scripts that I made for myself which has 1 or more better or more efficient functions than regular tools that would come publicly available. For me, better than stock tools, for a cyber security expert, probably sucks. 
+
+[Custom Tools](https://github.com/DriftlessCloud1/DriftlessCloud/tree/Custom-Tools)
 
 To get started and look around, click the "main" icon and find a catagory that you're wishing to look at. All categories are updated weekly, as of right now, they may be fairly empty due to the brand new start into cyber security learning and practice. All proofs are in ".md" files, click on one and the provided infomation is available.
 
