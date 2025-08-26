@@ -25,4 +25,4 @@ To get started and look around, click the "main" icon and find a catagory that y
 
 <img width="368" height="474" alt="Screenshot 2025-08-25 171747" src="https://github.com/user-attachments/assets/72836f74-81cd-404f-9ba2-3b9b0150897d" />
 
-*(Regarding proofs for contracted pentests, if you find private infomation that might've been passed through and publicly on a pentest .md file for proof, please message me ASAP so I can remove that part, I'll be as careful to upload as much proof proof of a pentest result while keeping you're infomation private).*
+*(Regarding proofs for contracted pentests, if you find private infomation that might've been passed through and publicly on a pentest .md file for proof, please message me ASAP so I can remove that part, I'll be as careful to upload as much proof of a pentest result while keeping you're infomation private).*
